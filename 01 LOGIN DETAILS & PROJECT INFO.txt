@@ -2,9 +2,7 @@
 
 **Database Name: ofbsphp**
 
-**Developed by Sujoy Dcunha, Christina Pereira, Mark Coutinho**
-
-**Recommended PHP Version 5.6, 7.4**
+**Recommended PHP Version 5.6,7.4**
 
 
 **Admin Login Details**
